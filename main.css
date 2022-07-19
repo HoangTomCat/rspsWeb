@@ -3,3 +3,11 @@
     padding: 100px;
     border: 1px solid red;
 }
+
+@media only screen and (max-width:440px){
+    .container{
+        width: 100%;
+        padding: 50px;
+        border: 1px solid green;
+    }
+}
