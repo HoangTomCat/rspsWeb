@@ -4,7 +4,7 @@
     border: 1px solid red;
 }
 
-@media only screen{
+@media only screen and (min-width:440px) and (max-width:1080px){
     .container{
         width: 100%;
         padding: 50px;
