@@ -7,7 +7,7 @@
     }
 }
 
-@media only screen and (min-resolution: 300dpi){
+@media only screen and (min-resolution: 100dpi){
     .container{
         width: 100%;
         padding: 50px;
